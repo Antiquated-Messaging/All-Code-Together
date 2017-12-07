@@ -8,10 +8,4 @@ class Numcode:
 			if self.message[x].isalpha(): 
 				self.translation = self.translation + self.numb[self.alpha.find(self.message[x])]
 			else:
-				if self.message[x] == '.':
-					self.numb[x] == '.'
-				elif self.message[x] == ' ':
-					self.numb[x] == ' '
-				else: 
-					self.numb[x] == ''
 				self.translation= self.translation + self.message[x]
