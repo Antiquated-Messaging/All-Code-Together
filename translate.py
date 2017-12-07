@@ -15,7 +15,3 @@ class Numcode:
 				else: 
 					self.numb[x] == ''
 				self.translation= self.translation + self.message[x]
-
-name = Numcode()
-print(name.translation)
-
