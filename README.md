@@ -8,6 +8,6 @@ This code can take an input from a user and translate it either into a numeric c
 
 -
 
--
+- Ben worked on the morse code class
 
 - The group checked each other's code as well, to make sure it would all be compatible in the final code
