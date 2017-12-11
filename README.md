@@ -6,7 +6,7 @@ This code can take an input from a user and translate it either into a numeric c
 
 - Jonathan worked on the cipher class, the saver class, and the main code
 
--
+- Matthew worked on the numeric class
 
 - Ben worked on the morse code class
 
